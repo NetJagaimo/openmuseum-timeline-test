@@ -1,0 +1,119 @@
+{
+  "option": {
+    "title": "XXX 時間軸名稱",
+    "defaultMode": "timeline",
+    "search": 1,
+    "themeColor": "gold"
+  },
+  "result": [
+    {
+      "url": "https://a.event.com",
+      "title": "A 事件",
+      "startDate": "1800-01-02",
+      "endDate": "1801-03-04",
+      "tags": [
+        "標籤A",
+        "標籤D"
+      ]
+    },
+    {
+      "url": "https://b.event.com",
+      "title": "B 事件",
+      "startDate": "1800-01-02",
+      "endDate": "1800-01-02",
+      "tags": [
+        "標籤C"
+      ]
+    },
+    {
+      "url": "https://c.event.com",
+      "title": "C 事件",
+      "startDate": "1805-03-12",
+      "endDate": "1805-07-24",
+      "tags": []
+    },
+    {
+      "url": "https://d.event.com",
+      "title": "D 事件",
+      "startDate": "1805-06-27",
+      "endDate": "1805-06-27",
+      "tags": [
+        "標籤A",
+        "標籤C",
+        "標籤D"
+      ]
+    },
+    {
+      "url": "https://e.event.com",
+      "title": "E 事件",
+      "startDate": "1805-09-04",
+      "endDate": "1805-09-05",
+      "tags": [
+        "標籤D"
+      ]
+    },
+    {
+      "url": "https://f.event.com",
+      "title": "F 事件",
+      "startDate": "1820-09-04",
+      "endDate": "1821-09-22",
+      "tags": [
+        "標籤B",
+        "標籤C"
+      ]
+    },
+    {
+      "url": "https://g.event.com",
+      "title": "G 事件",
+      "startDate": "1821-10-24",
+      "endDate": "1821-10-24",
+      "tags": [
+        "標籤A",
+        "標籤B",
+        "標籤C",
+        "標籤D"
+      ]
+    },
+    {
+      "url": "https://h.event.com",
+      "title": "H 事件",
+      "startDate": "1825-01-24",
+      "endDate": "1821-01-27",
+      "tags": []
+    },
+    {
+      "url": "https://i.event.com",
+      "title": "I 事件",
+      "startDate": "1828-05-12",
+      "endDate": "1821-08-22",
+      "tags": [
+        "標籤B"
+      ]
+    },
+    {
+      "url": "https://j.event.com",
+      "title": "J 事件",
+      "startDate": "1830-02-08",
+      "endDate": "1835-01-23",
+      "tags": [
+        "標籤B",
+        "標籤D"
+      ]
+    }
+  ],
+  "resultChapter": [
+    {
+      "url": "https://xxx",
+      "title": "XXX 章節",
+      "startDate": "YYYY",
+      "endDate": "YYYY",
+      "type": "chapter"
+    },
+    {
+      "title": "1900",
+      "startDate": "YYYY",
+      "type": "year",
+      "colorLevel": 5
+    }
+  ]
+}
